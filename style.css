@@ -1,0 +1,14 @@
+.image-sider{
+    background-color: #FEEAE9;
+    border-radius: 30px;
+}
+#emon{
+    background-color: #FCEAE8;
+    margin-bottom: 70px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    
+}
